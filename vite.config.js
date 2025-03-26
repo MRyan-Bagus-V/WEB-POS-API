@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "https://github.com/MRyan-Bagus-V/WEB-POS-API.git", // Ganti dengan nama repositorimu
+  base: "/WEB-POS-API/", // Ganti dengan nama repositorimu
   plugins: [
     vue(),
     vueDevTools(),
