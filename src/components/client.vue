@@ -24,7 +24,7 @@
                 </p>
               </div>
               <div class="img-box">
-                <img src="../images/client1.jpg" alt="" class="box-img">
+                <img src="/images/client1.jpg" alt="" class="box-img">
               </div>
             </div>
           </div>
