@@ -7,9 +7,9 @@
       </div>
 
       <!-- Slider Section -->
-      <section class="slider_section" style="margin-top=20px;">
+      <section class="slider_section">
         <div id="customCarousel1" class="carousel slide" data-ride="carousel">
-          <div class="carousel-inner">
+          <div class="carousel-inner" style="margin-top=100px;>
             <!-- Slide 1 -->
             <div class="carousel-item active">
               <div class="container">
